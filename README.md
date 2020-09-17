@@ -1,3 +1,3 @@
 # ModelBasedSW
 
-ModelBased SW notes see [here](https://github.com/sulzmann/ModelBasedSW)
+ModelBased SW notes see [here](https://sulzmann.github.io/ModelBasedSW/)
